@@ -1,0 +1,20 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependência do NuGet
+*.nuget.props
+*.paket.props
+*.paket.targets
+packages/
+
+# Arquivos de saída do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de configuração do Rider IDE
+.idea/
+
+# Arquivos de compilação do MSBuild
+msbuild.log
